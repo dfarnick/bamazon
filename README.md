@@ -9,6 +9,9 @@ Bamazon is like Amazon but without the images. However, while Amazon is a superi
 
 After you have installed the required packages you may enter:
 
+-inquirer
+-mysql
+
 node bamazonCustomer.js
 
 It will look like this...
@@ -34,7 +37,7 @@ See something you like? Enter the id of the product.
 
 ![identer](https://user-images.githubusercontent.com/46286683/53615306-ef79fa00-3ba2-11e9-9c45-82afc7386e16.PNG)
 
-You will then be prompted to enter the amount of that product you would like to purchase.
+You will then be prompted to enter the quantity amount of that product you would like to purchase.
 
 ---------------------------------------------------------------------------------------------------------
 
