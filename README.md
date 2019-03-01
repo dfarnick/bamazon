@@ -34,19 +34,31 @@ See something you like? Enter the id of the product.
 
 ![identer](https://user-images.githubusercontent.com/46286683/53615306-ef79fa00-3ba2-11e9-9c45-82afc7386e16.PNG)
 
+You will then be prompted to enter the amount of that product you would like to purchase.
 
 ---------------------------------------------------------------------------------------------------------
 
-This app is smart enough to do math... in a couple different ways. First it will add the total if a qty of 1 is purchased.
+Who wouldn't want a dirtbike!?
 
 ![oneqtytotal](https://user-images.githubusercontent.com/46286683/53615323-fc96e900-3ba2-11e9-93af-68666af851d6.PNG)
 
+It will add the total cost of the item/s for you.
+
+---------------------------------------------------------------------------------------------------------
+
+It's smart enough to do math!
 
 Next it will add the total cost if multiple are bought.
 
+Side by Side? Aaaaaahhh, I'll take 3.......
+
 ![multiqtytotal](https://user-images.githubusercontent.com/46286683/53615327-fe60ac80-3ba2-11e9-9f76-d4a4e6f60ac6.PNG)
 
+---------------------------------------------------------------------------------------------------------
+
 Lastly, it knows if you are trying to purchase items and the stock quantity is less than what you are attempting to buy.
+
+2 is always better than 1... I think...
 
 ![notenoughinstock](https://user-images.githubusercontent.com/46286683/53615310-f30d8100-3ba2-11e9-8484-dadbb09fa2bf.PNG)
 
