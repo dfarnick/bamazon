@@ -54,6 +54,8 @@ Side by Side? Aaaaaahhh, I'll take 3.......
 
 ![multiqtytotal](https://user-images.githubusercontent.com/46286683/53615327-fe60ac80-3ba2-11e9-9f76-d4a4e6f60ac6.PNG)
 
+**Notice- earlier we bought id: 8 and a qty: 1. It shows here that the total qty is 1. The showroom floor had 2 of them to start the day.
+
 ---------------------------------------------------------------------------------------------------------
 
 Lastly, it knows if you are trying to purchase items and the stock quantity is less than what you are attempting to buy.
