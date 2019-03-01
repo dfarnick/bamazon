@@ -68,4 +68,10 @@ I decided to make the app so it would just reload the items to choose from. This
 
 ---------------------------------------------------------------------------------------------------------
 
+Here's an image of the database and the table of items that information is being pulled from and pushed to.
+
+![database](https://user-images.githubusercontent.com/46286683/53616202-1d613d80-3ba7-11e9-9ddb-04b1eea02994.PNG)
+
+---------------------------------------------------------------------------------------------------------
+
 - Repository: https://github.com/dfarnick/bamazon
