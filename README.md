@@ -10,6 +10,7 @@ Bamazon is like Amazon but without the images. However, while Amazon is a superi
 After you have installed the required packages you may enter:
 
 -inquirer
+
 -mysql
 
 node bamazonCustomer.js
